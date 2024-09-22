@@ -16,7 +16,7 @@ Le Dashboard IT Quantique est une interface de supervision innovante conçue pou
 
 ## Aperçu
 
-![Capture d'écran du Dashboard](public/creenshot.png)
+![Capture d'écran du Dashboard](public/screenshot.png)
 
 ## Installation
 
