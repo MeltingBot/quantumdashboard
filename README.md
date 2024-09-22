@@ -1,6 +1,6 @@
 # Dashboard IT Quantique
 
-![Logo du Dashboard IT Quantique](public/quantum-logo.png)
+![Logo du Dashboard IT Quantique](public/banner_white.png)
 
 ## Description
 
@@ -16,7 +16,7 @@ Le Dashboard IT Quantique est une interface de supervision innovante conçue pou
 
 ## Aperçu
 
-![Capture d'écran du Dashboard](public/banner.png)
+![Capture d'écran du Dashboard](public/screenshot.png)
 
 ## Installation
 
